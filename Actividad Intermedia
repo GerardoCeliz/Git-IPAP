@@ -17,3 +17,15 @@ Porque si se rompe la computadora, perdés todo. Tener una copia en un repositor
 
 ¿Cuál crees que es la ventaja de tener todas las versiones en una copia local?
 La ventaja es que podés trabajar sin conexión, revisar el historial de cambios, volver a versiones anteriores o arreglar errores, todo desde tu computadora. Es rápido y no dependés de Internet para seguir avanzando.
+
+Actividad 3:
+Trabajar con ramas es muy importante porque te permite probar cosas nuevas o hacer cambios sin arruinar la versión principal del proyecto. Podés trabajar tranquilo sabiendo que, si algo sale mal, no rompiste nada. Es una forma ordenada de desarrollar.
+
+Los tipos de ramas que más se usan son:
+- Desarrollo: se usan para agregar nuevas funciones.
+- Test: donde se van juntando todos los cambios antes de pasarlos a producción.
+- Main o produción: es la principal, la versión "estable".
+- Ramas de corrección (hotfix, bugfix): para arreglar errores rápido sin tener que esperar a otros cambios.
+Estas ramas ayudan a organizar el trabajo, especialmente cuando hay más de una persona en el equipo.
+
+Usar tags también es muy útil, porque marcan momentos importantes del proyecto, como una versión lista para entregar. Sirve para tener puntos de referencia claros y volver a ellos si hace falta.
