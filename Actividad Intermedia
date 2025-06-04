@@ -1,0 +1,8 @@
+Actividad 1:
+Como administrador de base de datos, aprender Git es esencial para una gestión profesional y segura de los entornos. Permite versionar scripts SQL, automatizaciones y configuraciones, trabajar en equipo y tener historial de cambios. Mejora la organización y la trazabilidad del trabajo.
+
+Deberían subirse scripts .sql, automatizaciones, documentación, y configuraciones.
+No se deberían subirse backups, archivos binarios grandes, logs, ni datos sensibles como contraseñas.
+
+El Software Libre ofrece múltiples ventajas: es gratuito, accesible, y permite modificar el código según las necesidades del proyecto. Tiene comunidades activas que aportan soporte, mejoras y documentación.
+Como desventaja, puede requerir conocimientos técnicos más avanzados para su instalación y uso, y en algunos casos, la falta de soporte oficial puede ser un reto en entornos críticos. Aun así, su flexibilidad y potencial de personalización lo hacen una excelente opción en muchos escenarios profesionales.
